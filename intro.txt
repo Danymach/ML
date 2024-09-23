@@ -1,0 +1,3 @@
+This is a repo where I will be documenting my ML journey. All of my Projects will be thrown here.
+
+Ill be using both Tensorflow and PyTorch.
